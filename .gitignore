@@ -46,3 +46,7 @@ hs_err_pid*
 /spring-cloud-eureka-zuul/spring-cloud-zuul/mvnw
 /spring-cloud-eureka-zuul/spring-cloud-zuul/mvnw.cmd
 /spring-cloud-eureka-zuul/spring-cloud-zuul/.gitignore
+/spring-cloud-eureka-zuul/spring-cloud-zuul/mvnw
+/spring-cloud-eureka-zuul/spring-cloud-zuul/mvnw.cmd
+/spring-cloud-eureka-zuul/spring-cloud-zuul/.gitignore
+.mvn
